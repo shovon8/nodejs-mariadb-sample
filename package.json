@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mariadb": "^2.1.0",
     "moment": "^2.24.0"
   }
